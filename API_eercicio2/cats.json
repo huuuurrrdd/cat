@@ -1,0 +1,124 @@
+
+[
+    {
+    "cat": {
+      "name": "Whiskers",
+      "facts": [
+        "Cats have retractable claws.",
+        "A group of cats is called a clowder.",
+        "Cats sleep for an average of 12-16 hours a day."
+      ],
+      "favorite_food": "Tuna",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+
+  {
+    "cat": {
+      "name": "Mittens",
+      "facts": [
+        "Cats have five toes on their front paws but only four on their back paws.",
+        "Cats can make over 100 different sounds.",
+        "Mittens loves to play with yarn balls."
+      ],
+      "favorite_food": "Salmon",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Shadow",
+      "facts": [
+        "Cats whiskers are roughly as wide as their body.",
+        "Cats use their whiskers to measure openings and spaces.",
+        "Shadow enjoys napping in sunbeams."
+      ],
+      "favorite_food": "Chicken",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Smokey",
+      "facts": [
+        "Cats have a special reflective layer behind their retinas called the tapetum lucidum.",
+        "Smokey has a soft, fluffy gray coat.",
+        "Smokey's favorite pastime is bird watching."
+      ],
+      "favorite_food": "Beef",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Luna",
+      "facts": [
+        "Cats use their tails for balance.",
+        "Luna has striking green eyes.",
+        "Luna loves to climb and explore high places."
+      ],
+      "favorite_food": "Tuna",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Oliver",
+      "facts": [
+        "Cats can rotate their ears 180 degrees.",
+        "Oliver has a playful and curious personality.",
+        "Oliver's favorite toy is a feather wand."
+      ],
+      "favorite_food": "Turkey",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Cleo",
+      "facts": [
+        "Cats have a strong territorial instinct.",
+        "Cleo enjoys sunbathing by the window.",
+        "Cleo's fur has distinctive black and orange markings."
+      ],
+      "favorite_food": "Salmon",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Simba",
+      "facts": [
+        "Cats have a unique grooming pattern.",
+        "Simba has a regal and majestic demeanor.",
+        "Simba loves to be pampered with chin scratches."
+      ],
+      "favorite_food": "Chicken",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Whisper",
+      "facts": [
+        "Cats have an excellent sense of hearing.",
+        "Whisper is known for being quiet and reserved.",
+        "Whisper enjoys cuddling on rainy days."
+      ],
+      "favorite_food": "Tuna",
+      "picture_url": "https://cataas.com/cat"
+    }
+  },
+  {
+    "cat": {
+      "name": "Max",
+      "facts": [
+        "Cats have a third eyelid called the haw.",
+        "Max is a skilled hunter of toy mice.",
+        "Max's favorite spot is on the windowsill, watching the world outside."
+      ],
+      "favorite_food": "Beef",
+      "picture_url": "https://cataas.com/cat"
+    }
+  }
+]
