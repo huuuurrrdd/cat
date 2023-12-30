@@ -1,31 +1,6 @@
 
 //cat api usada: https://api.thecatapi.com/v1/images/search?limit=10
 
-/*
-    Forma de organizar os gatos:
-    -> 1º: tudo;
-    -> 2º formulário: como?
-    ->*** Alfabetica nome (nome, idade) : cena de ir filtrando à medida ***
-    ->***por idade: mais novo para mais velho e vice versa <*funciona, mas n está perfeito. A partir de 10 é preciso ajeitar* ***
-            -> se tiver tempo, acrescento 2 item de gato com 10 e 12 anos
-    ->***Opção de pesquisa livre: "falta pesquisar"***
-
-    Coisas que ainda quero fazer:
-    -> Colocar opção de tema escuro;
-    -> ***Colocar as imagens com o mesmo tamanho sem deformar;***
-    -> aplicar a mobile;
-
-
-    Coisas a fazer para a estética final:
-    -> **Colocar botões num contentor;**
-    -> **Dispor elementos dos filtros ajustável à janela;**
-    -> Apresentar: nº de resultados encontrados;
-    -> Ajeitar tipos e tamanhos de letra, estética dos botões, hover...
-        -Criar um miniplaneamento no figma
-
-*/
-
-
 /****************** Contentores gerais ****************/
 console.clear();
 //div para buttons
